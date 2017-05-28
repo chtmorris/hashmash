@@ -1,0 +1,60 @@
+{
+  Success: true,
+  Message: "986 api calls remaining.",
+  Data: [
+    {
+      CoinName: "Ethereum",
+      CoinTag: "ETH",
+      Algorithm: "EtHash",
+      Difficulty: 107274566924978.02,
+      BlockReward: 5,
+      BlockCount: 3059646,
+      ProfitRatio: 613.9370199399671,
+      AvgProfitRatio: 5698.034171071738,
+      Exchange: "Poloniex",
+      ExchangeRate: 0.01170038,
+      ExchangeVolume: 173699.3058195,
+      IsBlockExplorerOnline: true,
+      IsExchangeOnline: true,
+      Message: "",
+      BlockTimeInSeconds: 15,
+      HealthStatus: "Healthy"
+    },
+    {
+      CoinName: "Ethereum-Classic",
+      CoinTag: "ETC",
+      Algorithm: "EtHash",
+      Difficulty: 14481968409192,
+      BlockReward: 5,
+      BlockCount: 3069908,
+      ProfitRatio: 588.1223842005384,
+      AvgProfitRatio: 4731.848335269332,
+      Exchange: "Poloniex",
+      ExchangeRate: 0.00151185,
+      ExchangeVolume: 189155.52428182,
+      IsBlockExplorerOnline: true,
+      IsExchangeOnline: true,
+      Message: "",
+      BlockTimeInSeconds: 15,
+      HealthStatus: "Healthy"
+    },
+    {
+      CoinName: "Bitcoin",
+      CoinTag: "BTC",
+      Algorithm: "SHA-256",
+      Difficulty: 392963262344.37,
+      BlockReward: 12.5,
+      BlockCount: 449902,
+      ProfitRatio: 100,
+      AvgProfitRatio: 100,
+      Exchange: "Coinbase",
+      ExchangeRate: 904.58,
+      ExchangeVolume: 21973.78769694,
+      IsBlockExplorerOnline: true,
+      IsExchangeOnline: true,
+      Message: "",
+      BlockTimeInSeconds: 600,
+      HealthStatus: "Healthy"
+    }
+  ]
+}
